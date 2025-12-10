@@ -22,13 +22,12 @@ const projects = [
     gradient: "from-purple-600 to-pink-600"
   },
   {
-    title: "ILA Group Corporate",
-    desc: "Modern corporate website with 3D animations, multilingual support, and integrated contact system.",
-    tech: "React Three Fiber • GSAP • Tailwind • Laravel",
-    live: "/web3.png",
-    img: "https://via.placeholder.com/1200x800/1e1b4b/ffffff?text=Coming+Soon",
-    gradient: "from-indigo-600 to-purple-700",
-    comingSoon: true
+    title: "Door Optimizer",
+    desc: "Social platform for bass players — profiles, audio uploads, forums, events, and real-time chat.",
+    tech: "Next.js • Laravel API • PostgreSQL • WebSockets • Tailwind",
+    live: "https://ilagroup.lk/doorcalc/",
+    img: "/web3.png",
+    gradient: "from-purple-600 to-pink-600"
   }
 ]
 
