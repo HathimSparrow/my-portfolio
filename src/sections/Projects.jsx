@@ -10,7 +10,7 @@ const projects = [
     desc: "Full-stack e-commerce platform for hardware products with PayHere integration, admin panel, and real-time orders.",
     tech: "React • Laravel • MySQL • Tailwind • PayHere",
     live: "https://multihardware.ilagroup.lk",
-    img: "https://api.ilagroup.lk/storage/screenshots/multihardware.jpg",
+    img: "/web1.png",
     gradient: "from-blue-600 to-cyan-500"
   },
   {
@@ -18,14 +18,14 @@ const projects = [
     desc: "Social platform for bass players — profiles, audio uploads, forums, events, and real-time chat.",
     tech: "Next.js • Laravel API • PostgreSQL • WebSockets • Tailwind",
     live: "https://findmybass.ilagroup.lk",
-    img: "https://api.ilagroup.lk/storage/screenshots/findmybass.jpg",
+    img: "/web2.png",
     gradient: "from-purple-600 to-pink-600"
   },
   {
     title: "ILA Group Corporate",
     desc: "Modern corporate website with 3D animations, multilingual support, and integrated contact system.",
     tech: "React Three Fiber • GSAP • Tailwind • Laravel",
-    live: "#",
+    live: "/web3.png",
     img: "https://via.placeholder.com/1200x800/1e1b4b/ffffff?text=Coming+Soon",
     gradient: "from-indigo-600 to-purple-700",
     comingSoon: true
