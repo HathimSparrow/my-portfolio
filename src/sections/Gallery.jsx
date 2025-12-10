@@ -1,14 +1,15 @@
 // src/sections/Gallery.jsx — FINAL: SIMPLE, WORKING, INFINITE 4-ROW GALLERY (MOBILE RESPONSIVE)
 const images = [
-  "https://images.unsplash.com/photo-1519389951298-12e7acb2fa2c?w=800&q=80",
-  "https://images.unsplash.com/photo-1541701494587-3a45c7afae3b?w=800&q=80",
-  "https://images.unsplash.com/photo-1558655146-9f40138ed1cb?w=800&q=80",
-  "https://images.unsplash.com/photo-1498050108023-c5249f4df085?w=800&q=80",
-  "https://images.unsplash.com/photo-1522542550221-31fd19575a2d?w=800&q=80",
-  "https://images.unsplash.com/photo-1557804506-669a67965ba0?w=800&q=80",
-  "https://images.unsplash.com/photo-1486312338219-ce68d2c6f44d?w=800&q=80",
-  "https://images.unsplash.com/photo-1517180109936-4e9e87dcbbaf?w=800&q=80"
-]
+  "/img1.jpg",
+  "/img2.jpg",
+  "/img3.jpg",
+  "/img4.jpg",
+  "/img5.jpg",
+  "/img6.jpg",
+  "/img7.jpg",
+  "/img8.jpg"
+];
+
 
 const Gallery = () => {
   return (
